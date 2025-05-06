@@ -302,7 +302,7 @@ Grid
  219.190429688 624.634765625 l 1
  -128.333984375 624.634765625 l 1025
 EndSplineSet
-AnchorClass2: "hbsmall" "'mark' Hebrew Mark positioning-subtable" "hbwide" "'mark' Hebrew Mark positioning-subtable" "hbmiddle" "'mark' Hebrew Mark positioning-subtable" "holem" "'mark' Hebrew Mark positioning-subtable" "ganuv" "'mark' Hebrew Mark positioning-subtable" "qubuts" "'mark' Hebrew Mark positioning-subtable" "dagesh" "'mark' Hebrew Mark positioning-subtable" "aboveMark" "'mkmk' Mark to Mark-1" "right" "'mark' Right" "komb_OR" "'mark' Komb OR" "above" "'mark' Above" "below" "'mark' Below" "cedilla" "'mark' Cedilla" "ogonek" "'mark' Ogonek" "middle" "'mark' Middle"
+AnchorClass2: "belowMark" "'mkmk' Mark to Mark-1" "hbsmall" "'mark' Hebrew Mark positioning-subtable" "hbwide" "'mark' Hebrew Mark positioning-subtable" "hbmiddle" "'mark' Hebrew Mark positioning-subtable" "holem" "'mark' Hebrew Mark positioning-subtable" "ganuv" "'mark' Hebrew Mark positioning-subtable" "qubuts" "'mark' Hebrew Mark positioning-subtable" "dagesh" "'mark' Hebrew Mark positioning-subtable" "aboveMark" "'mkmk' Mark to Mark-1" "right" "'mark' Right" "komb_OR" "'mark' Komb OR" "above" "'mark' Above" "below" "'mark' Below" "cedilla" "'mark' Cedilla" "ogonek" "'mark' Ogonek" "middle" "'mark' Middle"
 BeginChars: 1114462 2731
 
 StartChar: exclam
@@ -15444,6 +15444,7 @@ Encoding: 803 803 679
 Width: 0
 GlyphClass: 4
 Flags: MW
+AnchorPoint: "belowMark" -216 -93 mark 0
 AnchorPoint: "below" -216 -113 mark 0
 LayerCount: 2
 Fore
